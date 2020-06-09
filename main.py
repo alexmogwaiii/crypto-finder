@@ -2,8 +2,7 @@
 #
 #  Alex k 14.05.2020
 #
-#
-#
+
 
 
 import telebot
