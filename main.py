@@ -14,7 +14,7 @@ from time import sleep
 from pycoingecko import CoinGeckoAPI
 
 cg = CoinGeckoAPI()
-bot = telebot.TeleBot('1222486864:AAHgNuUMiUir4s6UFSJc8bHQdat5HeDhPEs')
+bot = telebot.TeleBot('')
 
 
 @bot.message_handler(commands=['start'])
